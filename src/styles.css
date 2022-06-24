@@ -1,0 +1,22 @@
+* {
+  font-family: "JetBrains Mono", monospace;
+  background-color: #272727;
+}
+
+input {
+  border: none;
+  border-bottom: 2px solid grey;
+  width: 390px;
+  color: #fff;
+  font-size: 1.2rem;
+}
+h1 {
+  color: #ff6314;
+}
+input:focus {
+  outline: none;
+  border-bottom: 2px solid #ff6314;
+}
+li {
+  list-style: none;
+}
